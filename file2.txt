@@ -1,2 +1,3 @@
 line 1 for for file2
 line 2 for for file2
+line 3 for for file2
