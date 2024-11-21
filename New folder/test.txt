@@ -1,4 +1,0 @@
-line 1 for for file text
-line 2 for for file text
-
-line 4 for for file4
